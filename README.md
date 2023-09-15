@@ -1,6 +1,6 @@
 # PyCostOptiCap: Python-Based Intelligent Infrastructure Cost Optimization Model
 
-![PyCostOptiCap Logo](logo.png)
+Disclaimer: Only including coding files without data for security reasons
 
 PyCostOptiCap is a powerful Python-based project that provides a user-friendly interface for an intelligent infrastructure cost optimization model. This project is designed to help organizations maximize cost savings by optimizing the total cost of infrastructure for Virtual Machines (VMs) and Bare Metal (BM) servers. By considering critical parameters such as the number of hosts, the number of CPUs, and the database size, PyCostOptiCap employs various multi-linear regression algorithms and customized cost functions (including Mean Absolute Error - MAE for VMs and Root Mean Square Error - RMSE for BMs) to provide cost-saving recommendations.
 
