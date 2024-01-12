@@ -1,4 +1,4 @@
-# PyCostOptiCap: Python-Based Intelligent Infrastructure Cost Optimization Model
+# PyCostOptiCap: Python Infrastructure Cloud Cost Optimization Model
 
 Disclaimer: Only including coding files without data for security reasons
 
